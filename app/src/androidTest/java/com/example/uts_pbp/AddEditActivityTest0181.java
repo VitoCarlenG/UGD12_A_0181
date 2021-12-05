@@ -38,7 +38,7 @@ import static org.hamcrest.Matchers.is;
 
 @LargeTest
 @RunWith(AndroidJUnit4.class)
-public class AddEditActivityTest {
+public class AddEditActivityTest0181 {
 
     @Rule
     public ActivityTestRule<AddEditActivity> mActivityTestRule = new ActivityTestRule<>(AddEditActivity.class);
